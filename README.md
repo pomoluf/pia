@@ -1,2 +1,3 @@
-# pia
-Standalone Pia chat shell — empty Anita-style layout, permanent GitHub Pages URL.
+# Pia
+
+Empty chat shell. Permanent URL: https://pomoluf.github.io/pia/
